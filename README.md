@@ -2,7 +2,7 @@
 Olá! Eu sou ramon, sou muito conhecido como "RCS". Sou um Desenvolvedor. Posso realizar tarefas que vão desde a programação até a DevOps. Algumas das linguagens de programação que utilizo são: JavaScript | Node.js | Java . Também tenho experiência no uso de softwares de banco de dados como o MySQL.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcsCrew&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcsCrew&show_icons=true&theme=radical)
 
 
 
