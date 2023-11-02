@@ -1,5 +1,5 @@
 ### ola sou Ramon Senger 😀
-Olá! Eu sou ramon, sou muito conhecido como "RCS". Sou um Desenvolvedor. Posso realizar tarefas que vão desde a programação até a DevOps. Trabalho principalmente em redes de Minecraft, mas sou capaz de muito mais do que isso. Algumas das linguagens de programação que utilizo são: JavaScript | Node.js | Java | MySQL. Também tenho experiência no uso de softwares de banco de dados como o MySQL.
+Olá! Eu sou ramon, sou muito conhecido como "RCS". Sou um Desenvolvedor. Posso realizar tarefas que vão desde a programação até a DevOps. Algumas das linguagens de programação que utilizo são: JavaScript | Node.js | Java | MySQL. Também tenho experiência no uso de softwares de banco de dados como o MySQL.
 
 
 
